@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# Disponibiliza o token globalmente para o script não dar erro
+env:
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 permissions:
   contents: write
 
@@ -26,9 +30,6 @@ jobs:
         uses: czl9707/gh-space-shooter@main
         with:
           username: ${{ github.repository_owner }}
-        # ADICIONAMOS ESTAS DUAS LINHAS ABAIXO PARA CORRIGIR O ERRO:
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push results to your repository
         uses: crazy-max/ghaction-github-pages@v4
