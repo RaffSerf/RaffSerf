@@ -3,18 +3,21 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8BE9FD&center=true&vCenter=true&random=false&width=524&lines=Rafael+Serafim" alt="Typing SVG">
   </a>
 </p>
+<hr> 
 
-<br>
+
 
 <p align="center">
   <a href="https:/RaffSerf/beacons.ai/">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaffSerf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaffSerf&layout=compact&langs_count=7&theme=dracula"/>
   </a>
+  <hr>
   <img width="900" alt="Dev Front-End _ Estudante de ADS no Instituto Federal da Bahia _ Aprendendo Python e Banco de Dados  (5)" src="https://github.com/user-attachments/assets/927ae9a3-241d-4a45-bf40-9450649f254c" />
 </p>
 
 <br>
+<hr>
 
 <table align="center" width="100%">
   <tr>
