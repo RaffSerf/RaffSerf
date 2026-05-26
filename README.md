@@ -30,6 +30,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RaffSerf/RaffSerf/output/github-space-shooter.gif" alt="GitHub Space Shooter Game" />
+  <img align="center" width="100%" src="gh-space-shooter.webp" />
 </p>
 
