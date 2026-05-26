@@ -3,10 +3,8 @@
 
 <p align="center">
   <a href="https:/RaffSerf/beacons.ai/">
-    <div>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaffSerf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaffSerf&layout=compact&langs_count=7&theme=dracula"/>
-    </div>
   </a>
 </p>
 
