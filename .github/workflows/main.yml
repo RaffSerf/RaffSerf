@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# Garante permissões explícitas de escrita para o token de segurança
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,8 +18,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Configura a versão correta do Node para evitar o aviso de depreciação
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Generate Space Shooter Animation
-        # Mudamos de @master para @main aqui:
         uses: czl9707/gh-space-shooter@main
         with:
           username: ${{ github.repository_owner }}
