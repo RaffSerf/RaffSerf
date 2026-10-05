@@ -13,7 +13,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaffSerf&layout=compact&langs_count=7&theme=dracula"/>
   </a>
   <hr>
-  <img width="900" alt="Dev Front-End _ Estudante de ADS no Instituto Federal da Bahia _ Aprendendo Python e Banco de Dados  (5)" src="https://github.com/user-attachments/assets/927ae9a3-241d-4a45-bf40-9450649f254c" />
+  
 </p>
 
 <br>
